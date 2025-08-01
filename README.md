@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ali Abbas
+# Hi 👋, I'm Ali Abbas
 **Backend Developer || AI/ML Enthusiast**
 
 Currently pursuing Computer Science at FAST NUCES Lahore. I thrive in backend development and have a growing interest in AI/ML. I believe the best way to learn is by doing — and I love building projects that push my skills and create real impact.
